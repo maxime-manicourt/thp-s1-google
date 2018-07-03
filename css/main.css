@@ -197,3 +197,13 @@ margin: 0 18px;
 {
    margin: 0 10px;
 }
+.footer-link
+{
+
+  color : #666;
+}
+
+.footer-link:hover
+{
+  text-decoration: underline;
+}
